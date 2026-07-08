@@ -22,70 +22,71 @@
 
 ## Propriedades somente leitura (readonly)
 
-...
+[link](https://www.typescriptlang.org/play/?#code/PTAEAcCcHsoSwKYBMCGSEGdQegWwQHYAuCoANgnEQK6QrYKQBuCuEKdoAjtadWyiKQ4AI2pFoDAFb0UAY0wY0klOEIos4DvQyNycJNAA0oDRjhtdBQ6Fwo4WfvTko7qUOggwSAc4DHkp6ohhgAUCChoXJkZqAAghhC0FgA3qGgGaAgoHLQBImQ1HISkOmZuflCRSUAFGWZmdmCwmISYQ0NkAjKBGQAnqAEeAgAXNhCcAQA5kbZOPjEpBRUtCj1HeDUImRwcqB0cNBjBPwijEbrDVDQJMXIoCS4anQ0dMen55eZm9u7oNCQERUFBjAqTKagAA+g2oZDIFw632ETEEpDsGCU71wZ1KDQAlCkAL7rbK4ACXEkM6xcZDksI4ABE4K4EEkagSvhkuq8CA8ABYOAB0B0kACpQAAmTnrYkNEDkynQdYIAAe4DI0CQcEg7LSiK5rNovIARABrFAiaBWvAAQjtNuNMtCxPCYEmiRQBDkzP8gVI0BEUlZySieUSD0YnAAvIMEAB3eIFZI1Y0AFUjKGNJgAbIKAMwAdgAjCYiwBWEzGnBkLMZMuCgCcBYlAFEJQAWPGhyrYaBkUAxgjxxNJDApgDKfdr2Ybubz7YADCYy2WF0uTnDS42ABwNlt5hegLsVasIQXRbo6ru9siCob4AegADkUj5fKfWTA7kjknA0Ac-ymBMrSSBgADPECaqQuiQPoNikAQAS2JqcAAGa7MokRAA)
 
 ## Métodos estáticos (static)
 
-...
+[link]()
 
 ## Propriedades estáticas (static)
 
-...
+[link]()
 
 ## Encapsulamento
 
-...
+[link]()
 
 ## Herança
 
-...
+[link]()
 
 ## Polimorfismo
 
-...
+[link]()
 
 ## Abstração
 
-...
+[link]()
 
 ## Getters e setters
 
-...
+[link]()
 
 ## Classes abstratas (abstract)
 
-...
+[link]()
 
 ## Métodos abstratos
 
-...
+[link]()
 
 ## Sobrescrita de métodos (override)
 
-...
+[link]()
 
 ## Sobrecarga de métodos (method overloading)
 
-...
+[link]()
 
 ## Parâmetros opcionais em métodos
 
-...
+[link]()
 
 ## Parâmetros padrão
 
-...
+[link]()
 
 ## Herança simples
 
-...
+[link]()
 
 ## Cadeia de herança
 
-...
+[link]()
 
 ## Tratamento de exceções (throw, try, catch)
 
-...
+[link]()
 
 ## Classes e herança de classes de erro
+[link]()
